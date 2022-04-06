@@ -1,0 +1,26 @@
+$Recycle.Bin
+ArquivoEditavel
+Arquivos de Programas
+chave_picking
+Documents and Settings
+HavanRfid(inventário rotativo) key
+inetpub
+Intel
+inventario-rotativo-app
+key-movimentacao
+movimentacao_key
+MSOCache
+OneDriveTemp
+PerfLogs
+picking_key_prod
+Program Files
+Program Files (x86)
+Programas Notebook DEV
+ProgramData
+Projetos-android
+Python310
+react_teste
+Recovery
+System Volume Information
+Users
+Windows
